@@ -1,0 +1,57 @@
+.Banner-box {
+  background-color: #2f3778;
+  height: 100vh;
+}
+.vertical-line {
+  border-right: 3px solid rgb(132, 221, 221);
+  height: 100vh;
+}
+.Box {
+  margin-top: 30%;
+  margin-left: 40px;
+}
+.Box img {
+  width: 60%;
+}
+.title {
+  color: white;
+  padding-bottom: 30px;
+  font-size: 2.2rem;
+  font-weight: 700;
+}
+.description {
+  color: white;
+  text-align: justify;
+  padding-bottom: 20px;
+}
+.step {
+  color: white;
+  letter-spacing: 2px;
+}
+.SELF-ANALYSIS {
+  color: rgb(108, 218, 218);
+  font-size: 1.8rem;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+@media only screen and(max-width:688px) {
+  .title {
+    font-size: 0.8rem;
+    margin: 0px;
+    padding: 0px;
+  }
+  .SELF-ANALYSIS {
+    font-size: 0.3rem;
+  }
+  .Box {
+    margin-top: 2%;
+    margin-left: 5px;
+  }
+  .Banner-box {
+    margin-left: 0px;
+    padding-left: 40px;
+  }
+  .Box img {
+    width: 80%;
+  }
+}
