@@ -14,9 +14,9 @@ const Banner = () => {
               <div className="col-10 col-md-5 ">
                 <div
                   className="Box"
-                  /* data-aos="fade-right"
+                  data-aos="fade-right"
                   data-aos-easing="linear"
-                  data-aos-duration="1500" */
+                  data-aos-duration="1500"
                 >
                   <h1 className="title">How we can Help</h1>
                   <p className="description">
@@ -45,12 +45,7 @@ const Banner = () => {
                 </div>
               </div>
               <div className="col-10 col-md-5">
-                <div
-                  className="Box text-center"
-                  /*  data-aos="fade-left"
-                  data-aos-easing="linear"
-                  data-aos-duration="1500" */
-                >
+                <div className="Box text-center pb-5">
                   <img className="" src={img} alt="" />
                 </div>
               </div>
