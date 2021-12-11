@@ -10,8 +10,13 @@
   margin-top: 30%;
   margin-left: 40px;
 }
-.Box img {
+.demo-image {
   width: 60%;
+}
+.demo-image:hover {
+  transition: all 0.5s linear;
+  transform: scale(107%);
+  cursor: pointer;
 }
 .title {
   color: white;
@@ -34,7 +39,7 @@
   letter-spacing: 1px;
   font-weight: 700;
 }
-@media only screen and(max-width:688px) {
+@media only screen and(min-width:321px) and (max-width: 768px) {
   .title {
     font-size: 0.8rem;
     margin: 0px;
@@ -51,7 +56,7 @@
     margin-left: 0px;
     padding-left: 40px;
   }
-  .Box img {
+  .demo-image {
     width: 80%;
   }
 }

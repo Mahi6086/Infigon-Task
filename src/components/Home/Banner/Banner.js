@@ -45,8 +45,13 @@ const Banner = () => {
                 </div>
               </div>
               <div className="col-10 col-md-5">
-                <div className="Box text-center pb-5">
-                  <img className="" src={img} alt="" />
+                <div
+                  className="Box text-center pb-5"
+                  data-aos="fade-left"
+                  data-aos-easing="linear"
+                  data-aos-duration="1500"
+                >
+                  <img className="demo-image" src={img} alt="" />
                 </div>
               </div>
             </div>
