@@ -1,14 +1,16 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://infigon-react-intership-task.netlify.app/).
 
-## Available Scripts
+### `About Project`
 
-In the project directory, you can run:
+This is a React Demo Projects.
 
-### `npm start`
+### `Used Technology`
 
-Runs the app in the development mode.\
+Html5, CSS3, Bootstrap, React, React Router-Dom & developed with Netlify.
+
+<!-- Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
@@ -68,3 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ -->
